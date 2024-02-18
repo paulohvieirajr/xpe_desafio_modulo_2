@@ -1,0 +1,28 @@
+cod_estado;sigla;estado;regiao;pais
+1;AC;Acre;Norte;Brasil
+2;AL;Alagoas;Nordeste;Brasil
+3;AP;Amap�;Norte;Brasil
+4;AM;Amazonas;Norte;Brasil
+5;BA;Bahia;Nordeste;Brasil
+6;CE;Cear�;Nordeste;Brasil
+7;DF;Distrito Federal;Centro-Oeste;Brasil
+8;ES;Esp�rito Santo;Sudeste;Brasil
+9;GO;Goi�s;Centro-Oeste;Brasil
+10;MA;Maranh�o;Nordeste;Brasil
+11;MT;Mato Grosso;Centro-Oeste;Brasil
+12;MS;Mato Grosso do Sul;Centro-Oeste;Brasil
+13;MG;Minas Gerais;Sudeste;Brasil
+14;PA;Par�;Norte;Brasil
+15;PB;Para�ba;Nordeste;Brasil
+16;PR;Paran�;Sul;Brasil
+17;PE;Pernambuco;Nordeste;Brasil
+18;PI;Piau�;Nordeste;Brasil
+19;RJ;Rio de Janeiro;Sudeste;Brasil
+20;RN;Rio Grande do Norte;Nordeste;Brasil
+21;RS;Rio Grande do Sul;Sul;Brasil
+22;RO;Rond�nia;Norte;Brasil
+23;RR;Roraima;Norte;Brasil
+24;SC;Santa Catarina;Sul;Brasil
+25;SP;S�o Paulo;Sudeste;Brasil
+26;SE;Sergipe;Nordeste;Brasil
+27;TO;Tocantins;Norte;Brasil
